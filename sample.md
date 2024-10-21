@@ -83,3 +83,9 @@ function add(num1, num2) {
 | -------- | ---------------- |
 | Jane Doe | <jane@gmail.com> |
 | John Doe | <john@gmail.com> |
+
+<!-- Tasks -->
+
+- [x] Task 1
+- [x] Task 2
+- [ ] task 3
